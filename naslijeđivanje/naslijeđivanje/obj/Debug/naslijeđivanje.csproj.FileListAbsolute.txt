@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\bin\Debug\naslijeđivanje.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\naslijeđivanje\naslijeđivanje\obj\Debug\naslijeđivanje.pdb
